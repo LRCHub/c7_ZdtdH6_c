@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "宝石を宿す (Endorfin. ver.)",
+  "base_artist": "Endorfin.",
+  "createdAt": "2026-01-03T15:01:10.956905Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "宝石を宿す (Endorfin. ver.)",
+      "artist": "Endorfin.",
+      "has_synced": false,
+      "path": "select/pl_01_宝石を宿す_(Endorfin._ver.)_Endorfin..txt"
+    }
+  ]
+}
